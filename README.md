@@ -1,2 +1,2 @@
 # AutomateAWSwithPython
-Automate AWS with Python 3.0
+Automate AWS with Python 3
